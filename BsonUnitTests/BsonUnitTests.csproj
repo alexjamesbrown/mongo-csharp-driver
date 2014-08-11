@@ -91,6 +91,7 @@
     <Compile Include="DefaultSerializer\Conventions\PropertyFinderConventionsTests.cs" />
     <Compile Include="DefaultSerializer\Conventions\ElementNameConventionsTests.cs" />
     <Compile Include="DefaultSerializer\ExtraElementsTests.cs" />
+    <Compile Include="DefaultSerializer\MongoDBClassMapTests.cs" />
     <Compile Include="DefaultSerializer\SerializationOptions\RepresentationSerializationOptionsTests.cs" />
     <Compile Include="DefaultSerializer\SerializeFlagsTests.cs" />
     <Compile Include="DefaultSerializer\Serializers\AnimalHierarchyWithAttributesTests.cs" />
