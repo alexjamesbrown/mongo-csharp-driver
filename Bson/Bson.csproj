@@ -233,6 +233,7 @@
     <Compile Include="Serialization\Serializers\BsonPrimitiveSerializers.cs" />
     <Compile Include="Serialization\IBsonSerializationProvider.cs" />
     <Compile Include="Serialization\Serializers\ReadOnlyCollectionSerializer.cs" />
+    <Compile Include="Serialization\Serializers\RegisterMongoDBClassMaps.cs" />
     <Compile Include="Serialization\TypeNameDiscriminator.cs" />
   </ItemGroup>
   <ItemGroup>
